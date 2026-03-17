@@ -1,4 +1,4 @@
-🤖 #RPA – Day 1 Tasks (UiPath Studio)
+🤖 RPA – Day 1 Tasks (UiPath Studio)
 
 📌 Overview
 
